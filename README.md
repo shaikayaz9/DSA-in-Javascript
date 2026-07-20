@@ -173,7 +173,7 @@ If you find this repository helpful:
 
 # 💡 Quote of the Day
 
-> **"First, solve the problem. Then, write the code."** – John Johnson
+> **"First, solve the problem. Then, write the code."** – Ayaz Shaik
 
 ---
 
